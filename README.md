@@ -6,9 +6,10 @@ Modeling RLC circuits response by MATLAB &amp; Simulink
 
 ![alt tag](https://s3.postimg.org/xmti50sgj/Screenshot_from_2017-04-13_12-05-16.png)
 
-#### What's this ? 
+#### What's this ?
 
-The circuit has been working for a long time and the energy of capacitor or inductor suddenly released to the resistive network.
+The response of a circuit to the sudden disconnection of a DC voltage or current source.
+
 
 # Step Response 
 
